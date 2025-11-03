@@ -1,5 +1,4 @@
-# Oráculo manual y arte de prudencia (1647)
-Oráculo manual y arte de prudencia /Baltasar Gracián
+# Oráculo manual y arte de prudencia (1647) /Baltasar Gracián
 https://es.wikipedia.org/wiki/Oráculo_manual_y_arte_de_prudencia
           _______________________________
          /                               /|
