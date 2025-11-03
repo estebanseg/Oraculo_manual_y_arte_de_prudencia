@@ -1,5 +1,6 @@
 # Oráculo manual y arte de prudencia (1647)
 Oráculo manual y arte de prudencia /Baltasar Gracián
+https://es.wikipedia.org/wiki/Oráculo_manual_y_arte_de_prudencia
           _______________________________
          /                               /|
         /                               / |
@@ -11,9 +12,9 @@ Oráculo manual y arte de prudencia /Baltasar Gracián
      |                                 |  |
      |         por Baltasar Gracián    |  |
      |                                 |  |
-     |  "El que no sabe vivir           |  |
-     |   desconoce su propia fortuna."  |  |
+     |  "El que no sabe vivir          |  |
+     |  desconoce su propia fortuna."  |  |
      |                                 |  |
-     |  ••••••••••••••••••••••••••••• |  /
-     |  ••••••••••••••••••••••••••••• | /
+     |  •••••••••••••••••••••••••••••  |  /
+     |  •••••••••••••••••••••••••••••  | /
      |_________________________________|/
